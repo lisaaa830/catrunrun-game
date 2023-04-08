@@ -2,7 +2,7 @@
 
 The Game Project part 6 - adding game mechanics
 */
-
+/*new me*/
 
 var gameChar_x;
 var gameChar_y;
