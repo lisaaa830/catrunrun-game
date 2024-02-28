@@ -1,2 +1,2 @@
 # catrunrun-game
-This is a game developed with JS
+This is a Mario Run game developed with JavaScript
